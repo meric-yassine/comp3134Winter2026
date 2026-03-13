@@ -1,0 +1,1 @@
+The HTTP request was visible in plaintext. The GET request, host name, and browser details were readable. This demonstrates that without encryption, sensitive information could be intercepted.

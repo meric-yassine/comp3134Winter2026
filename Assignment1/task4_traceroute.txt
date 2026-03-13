@@ -1,0 +1,1 @@
+Command: traceroute google.comOutput:traceroute: Warning: google.com has multiple addresses; using 192.178.192.139traceroute to google.com (192.178.192.139), 64 hops max, 40 byte packets 1  10.16.32.1 (10.16.32.1)  4.492 ms  3.493 ms  3.359 ms 2  * * * 3  * * *
